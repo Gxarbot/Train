@@ -1,0 +1,5 @@
+train: C:\\Users\\tomas\\Desktop\\yolov5-master\\dataset\\train\\images
+val: C:\\Users\\tomas\\Desktop\\yolov5-master\\dataset\\valid\\images
+
+nc: 1
+names: ['pig']
